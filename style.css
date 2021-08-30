@@ -1,7 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
 body{
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Hind Siliguri', sans-serif;
     font-size: 24px;
     font-weight: 500;
     color: rgb(248, 233, 236);
@@ -30,8 +30,32 @@ nav{
 .hero-image img{
     width: 30em;
     height: auto;
+    padding-left: 5em;
 }
 .section-content{
-    width: 30em;
+    width: 40em;
     margin: 2em auto;
+    text-align: left;
+    /* background-color: aqua; */
+    padding: 2em;
+}
+.separator{
+    display: inline-block;
+    width: 0.6em;
+    height: 0.3em;
+    border-radius: 20%;
+    margin: 0.1em;
+    background-color: rgb(248, 233, 236);
+}
+.detail-box{
+    width: 65vw;
+    height: auto;
+    background-color: rgb(14, 54, 88);
+    padding: 0.2em;
+}
+ol, ul li{
+        list-style-type: none;
+}
+h1,h2 {
+    text-align: center;
 }
