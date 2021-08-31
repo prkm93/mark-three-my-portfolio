@@ -48,12 +48,17 @@ nav{
     background-color: rgb(248, 233, 236);
 }
 .detail-box{
-    width: 65vw;
+    width: 60vw;
     height: auto;
     background: linear-gradient(to left, rgb(0, 0, 0), rgb(78, 3, 26));
     padding: 0.2em;
     margin:2em 0;
     border-radius: 0.6em;
+    box-shadow: 0 0 10px #fff;
+    transition: transform 500ms ease-in-out 25ms;
+}
+.detail-box:hover{
+    transform: scale(1.1);
 }
 .detail-box p{
     padding-left: 1em;
