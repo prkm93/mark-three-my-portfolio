@@ -42,7 +42,7 @@ nav{
 .separator{
     display: inline-block;
     width: 0.6em;
-    height: 0.3em;
+    height: 0.2em;
     border-radius: 20%;
     margin: 0.1em;
     background-color: rgb(248, 233, 236);
@@ -50,8 +50,13 @@ nav{
 .detail-box{
     width: 65vw;
     height: auto;
-    background-color: rgb(14, 54, 88);
+    background: linear-gradient(to left, rgb(0, 0, 0), rgb(78, 3, 26));
     padding: 0.2em;
+    margin:2em 0;
+    border-radius: 0.6em;
+}
+.detail-box p{
+    padding-left: 1em;
 }
 ol, ul li{
         list-style-type: none;
