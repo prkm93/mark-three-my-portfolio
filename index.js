@@ -8,8 +8,8 @@ const renderDetailBox = (item, i) => {
                             <p class="detail-box__date">${item.date}</p>
                             <p class="detail-box__description">${item.description}</p>
                             <div class="detail-box__links">
-                                <a href=${item.liveProjectLink} class="detail-box__project">Live Project</a>
-                                <a href=${item.sourceCodeLink} class="detail-box__source">View Source</a>
+                                <a href=${item.liveProjectLink} class="detail-box__project" target="_blank">Live Project</a>
+                                <a href=${item.sourceCodeLink} class="detail-box__source" target="_blank">View Source</a>
                             </div>
                         </div>
                      </article>`;

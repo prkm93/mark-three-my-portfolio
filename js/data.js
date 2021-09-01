@@ -34,4 +34,18 @@ export const projectData = [
         liveProjectLink: 'link1',
         sourceCodeLink:'link2'
     },
+    {
+        projectName:'a-general-knowledge-quiz',
+        date: 'June, 2021',
+        description:'A simple general quiz built having mulitple options.You need to select the correct answer.',
+        liveProjectLink: 'https://replit.com/@praddy93/mark-Two-MultiQuiz#index.js',
+        sourceCodeLink:'https://github.com/prkm93/mark-two-quiz-App--multiple-options'
+    },
+    {
+        projectName:'how well do you know me?',
+        date: 'June, 2021',
+        description:'A CLI app built with nodeJS. You would need to answer some questions about me.You will get +4 for correct answer and -1 for each wrong answer.',
+        liveProjectLink: 'https://replit.com/@praddy93/mark-One#index.js',
+        sourceCodeLink:'https://github.com/prkm93/mark-one-CLI-app'
+    },
 ]
