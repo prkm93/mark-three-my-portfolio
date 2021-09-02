@@ -35,6 +35,13 @@ export const projectData = [
         sourceCodeLink:'link2'
     },
     {
+        projectName:'minionese',
+        date: 'Sep, 2021',
+        description:'Are you a fan of minions? Did you know that the gibberish they say is an actual language. Use the translator to convert your text from English to Minion speak or Banana language.',
+        liveProjectLink: 'https://simple-minion-translator.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/neogcamp-banana-speak-mark-six-'
+    },
+    {
         projectName:'a-news-feed-aggregator',
         date: 'August, 2021',
         description:'A news feed app where user can browse brief details of specific type of news and then open that news to read the complete news.News is populated from real API.',
