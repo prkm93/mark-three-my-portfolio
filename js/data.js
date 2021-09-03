@@ -28,6 +28,13 @@ export const projectData = [
     //     sourceCodeLink:'link2'
     // },
     {
+        projectName:'react-todo-app',
+        date: 'Mar, 2021',
+        description:'A simple react todo app using Material UI',
+        liveProjectLink: 'https://a-react-todo-app.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/React-Todo-App'
+    },
+    {
         projectName:'funny-dothraki-translator',
         date: 'Sep, 2021',
         description:'Are you a fan of Game of thrones? Did you know that Dothraki is the language spoken by the Dothraki people, the nomadic mounted tribes of the central plains of Essos, known as the Dothraki Sea in GOT',
