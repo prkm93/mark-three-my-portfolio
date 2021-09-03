@@ -28,11 +28,11 @@ export const projectData = [
     //     sourceCodeLink:'link2'
     // },
     {
-        projectName:'cash-register-manager',
-        date: 'December, 2021',
-        description:'A cash register manager which helps the user by telling how can he/she return the change to the customer with minimum number of notes.',
-        liveProjectLink: 'link1',
-        sourceCodeLink:'link2'
+        projectName:'funny-dothraki-translator',
+        date: 'Sep, 2021',
+        description:'Are you a fan of Game of thrones? Did you know that Dothraki is the language spoken by the Dothraki people, the nomadic mounted tribes of the central plains of Essos, known as the Dothraki Sea in GOT',
+        liveProjectLink: 'https://mini-dothraki-translator.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/neogcamp-dothraki-translator-app'
     },
     {
         projectName:'minionese',
