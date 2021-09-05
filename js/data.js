@@ -32,7 +32,7 @@ export const projectData = [
         date: 'Sep, 2021',
         description:'I struggle with understanding the emojis. Do you too? If yes, then see this library of emojis with meaning',
         liveProjectLink: 'https://emoji-interpreter-1c5a92.netlify.app/',
-        sourceCodeLink:'https://github.com/prkm93/neogcamp-emoji-interpreter''
+        sourceCodeLink:'https://github.com/prkm93/neogcamp-emoji-interpreter'
     },
     {
         projectName:'react-todo-app',
