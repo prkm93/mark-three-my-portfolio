@@ -20,13 +20,13 @@ export const projectData = [
     //     liveProjectLink: 'link1',
     //     sourceCodeLink:'link2'
     // },
-    // {
-    //     projectName:'is-your-birthday-lucky',
-    //     date: 'December, 2021',
-    //     description:'A website which helps you to learn about triangles',
-    //     liveProjectLink: 'link1',
-    //     sourceCodeLink:'link2'
-    // },
+    {
+        projectName:'food-category-app',
+        date: 'December, 2021',
+        description:'Do you crave for food sometimes? Checkout my favourite food items!',
+        liveProjectLink: 'link1',
+        sourceCodeLink:'link2'
+    },
     {
         projectName:'emoji-interpreter',
         date: 'Sep, 2021',

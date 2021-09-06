@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
 body{
     font-family: 'Hind Siliguri', sans-serif;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
     color: rgb(248, 233, 236);
     background:linear-gradient(to right, rgb(0, 0, 0), rgb(90, 4, 51));
@@ -34,7 +34,7 @@ nav{
     padding-left: 5em;
 }
 .section-content{
-    width: 40em;
+    width: 45em;
     margin: 2em auto;
     text-align: left;
     padding: 2em;
