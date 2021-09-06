@@ -24,8 +24,8 @@ export const projectData = [
         projectName:'food-category-app',
         date: 'December, 2021',
         description:'Do you crave for food sometimes? Checkout my favourite food items!',
-        liveProjectLink: 'link1',
-        sourceCodeLink:'link2'
+        liveProjectLink: 'https://food-category-app-3d18b8.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/neogcamp-food-filter-app'
     },
     {
         projectName:'emoji-interpreter',
