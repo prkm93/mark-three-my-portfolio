@@ -31,13 +31,16 @@ nav{
 .hero-image img{
     width: 30em;
     height: auto;
-    padding-left: 5em;
 }
 .section-content{
-    width: 45em;
-    margin: 2em auto;
-    text-align: left;
+    width: 50em;
+    margin: 0 auto;
+    text-align: center;
     padding: 2em;
+}
+li{
+    text-align: left;
+    margin-left: 100px;
 }
 .separator{
     display: inline-block;
