@@ -21,6 +21,13 @@ export const projectData = [
     //     sourceCodeLink:'link2'
     // },
     {
+        projectName:'cash-register-manager',
+        date: 'Sep, 2021',
+        description:'A cash register manager which helps the user by telling how can he/she return the change to the customer with minimum number of notes.',
+        liveProjectLink: 'https://cash-register-6bddb8.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/neogcamp-cash-register'
+    },
+    {
         projectName:'food-category-app',
         date: 'Sep, 2021',
         description:'Do you crave for food sometimes? Checkout my favourite food items!',
