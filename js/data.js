@@ -21,6 +21,13 @@ export const projectData = [
     //     sourceCodeLink:'link2'
     // },
     {
+        projectName:'Is-your-birthday-lucky?',
+        date: 'Sep, 2021',
+        description:'A website which can help you to check whether your birthday is lucky or not.',
+        liveProjectLink: 'https://lucky-birthday-ce8884.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/neogcamp-lucky-birthday'
+    },
+    {
         projectName:'cash-register-manager',
         date: 'Sep, 2021',
         description:'A cash register manager which helps the user by telling how can he/she return the change to the customer with minimum number of notes.',
