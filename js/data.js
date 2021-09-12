@@ -13,13 +13,13 @@ export const projectData = [
     //     liveProjectLink: 'link1',
     //     sourceCodeLink:'link2'
     // },
-    // {
-    //     projectName:'learn-triangles',
-    //     date: 'December, 2021',
-    //     description:'A website which helps you to learn about triangles',
-    //     liveProjectLink: 'link1',
-    //     sourceCodeLink:'link2'
-    // },
+    {
+        projectName:'learn-triangles',
+        date: 'Sep, 2021',
+        description:'A website which helps you to learn about triangles',
+        liveProjectLink: 'https://fun-with-triangles-3cacb6.netlify.app',
+        sourceCodeLink:'https://github.com/prkm93/neogcamp-fun-with-triangles'
+    },
     {
         projectName:'Is-your-birthday-lucky?',
         date: 'Sep, 2021',
