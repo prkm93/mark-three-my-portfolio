@@ -14,6 +14,20 @@ export const projectData = [
     //     sourceCodeLink:'link2'
     // },
     {
+        projectName:'Qkart-FrontEnd(Hooks) - Crio Project',
+        date: 'Dec, 2021',
+        description:'A basic flipkart like website created using react hooks and Material UI where users can login, register, view products, add product to cart and order it',
+        liveProjectLink: 'https://qkart-frontend-hooks-pradeep.netlify.app/',
+        sourceCodeLink:'https://gitlab.crio.do/COHORT_ME_QKART_FRONTEND_V2_ENROLL_1638083375127/aradshub93-ME_QKART_FRONTEND_V2'
+    },
+    {
+        projectName:'Qkart-FrontEnd(Class component) - Crio Project',
+        date: 'Oct, 2021',
+        description:'A basic flipkart like website where users can login, register, view products, add product to cart and order it',
+        liveProjectLink: 'https://qkart-frontend-pr.netlify.app/',
+        sourceCodeLink:'https://gitlab.crio.do/COHORT_ME_QKART_FRONTEND_ENROLL_1624363790821/aradshub93-me_qkart_frontend'
+    },
+    {
         projectName:'learn-triangles',
         date: 'Sep, 2021',
         description:'A website which helps you to learn about triangles',
@@ -70,18 +84,18 @@ export const projectData = [
         sourceCodeLink:'https://github.com/prkm93/neogcamp-banana-speak-mark-six-'
     },
     {
-        projectName:'qtrip-dynamic',
-        date: 'July, 2021',
-        description: "A dynamic travel website where users can book travel, view places, filter based on category or duration, view bookings.",
-        liveProjectLink: 'https://qtrip-dynamic-by-pradeep.netlify.app/', 
-        sourceCodeLink: 'https://gitlab.crio.do/COHORT_ME_QTRIPDYNAMIC_ENROLL_1624363671740/aradshub93-me_qtripdynamic/-/tree/master'
-    },
-    {
         projectName:'a-news-feed-aggregator',
         date: 'August, 2021',
         description:'A news feed app where user can browse brief details of specific type of news and then open that news to read the complete news.News is populated from real API.',
         liveProjectLink: 'https://xboard-by-pradeep.netlify.app/',
         sourceCodeLink:'https://github.com/prkm93/xboard-crio-exercise-vanillajs'
+    },
+    {
+        projectName:'qtrip-dynamic-javascript-Crio-Project',
+        date: 'July, 2021',
+        description: "A dynamic travel website where users can book travel, view places, filter based on category or duration, view bookings.",
+        liveProjectLink: 'https://qtrip-dynamic-by-pradeep.netlify.app/', 
+        sourceCodeLink: 'https://gitlab.crio.do/COHORT_ME_QTRIPDYNAMIC_ENROLL_1624363671740/aradshub93-me_qtripdynamic/-/tree/master'
     },
     {
         projectName:'neogcamp-practice-interview-questions-collection',
