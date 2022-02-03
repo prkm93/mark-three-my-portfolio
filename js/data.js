@@ -70,6 +70,13 @@ export const projectData = [
         sourceCodeLink:'https://github.com/prkm93/neogcamp-banana-speak-mark-six-'
     },
     {
+        projectName:'qtrip-dynamic',
+        date: 'July, 2021',
+        description: "A dynamic travel website where users can book travel, view places, filter based on category or duration, view bookings.",
+        liveProjectLink: 'https://qtrip-dynamic-by-pradeep.netlify.app/', 
+        sourceCodeLink: 'https://gitlab.crio.do/COHORT_ME_QTRIPDYNAMIC_ENROLL_1624363671740/aradshub93-me_qtripdynamic/-/tree/master'
+    },
+    {
         projectName:'a-news-feed-aggregator',
         date: 'August, 2021',
         description:'A news feed app where user can browse brief details of specific type of news and then open that news to read the complete news.News is populated from real API.',
