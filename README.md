@@ -9,4 +9,4 @@ For now I have understanding of below technologies:
 3) Repl.it
 4) CHALK library
 
-This portfolio website is in progress.I will constantly keep updating it
+This portfolio website is in progress.I will keep updating it.
