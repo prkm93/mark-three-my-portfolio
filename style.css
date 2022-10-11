@@ -29,19 +29,20 @@ nav{
     text-decoration: none;
     color: rgb(248, 233, 236);
 }
+.hero-image {
+    display: flex;
+    justify-content: center;
+}
 .hero-image img{
     width: 30em;
     height: auto;
 }
 .section-content{
-    width: 50em;
     margin: 0 auto;
-    text-align: center;
     padding: 2em;
 }
 li{
     text-align: left;
-    margin-left: 100px;
 }
 .separator{
     display: inline-block;
@@ -51,8 +52,15 @@ li{
     margin: 0.1em;
     background-color: rgb(248, 233, 236);
 }
+
+.detail-boxes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .detail-box{
-    /* width: 60vw; */
+    width: 50vw;
     height: auto;
     background: linear-gradient(to left, rgb(0, 0, 0), rgb(78, 3, 26));
     padding: 0.4em;
@@ -62,14 +70,25 @@ li{
     font-size: 1rem;
     transition: transform 500ms ease-in-out 25ms;
 }
+
 .detail-box:hover{
     transform: scale(1.1);
 }
+
 .detail-box p{
     padding-left: 1em;
 }
+
+.details-more{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+}
+
 ol, ul li{
-        list-style-type: none;
+        list-style-type: disc;
 }
 h1,h2 {
     text-align: center;
@@ -109,13 +128,43 @@ h1,h2 {
     text-align: center;
 }
 
-@media only screen and (max-width: 768px) {
-    .hero-image {
-        margin: 0 4em;
+@media only screen and (max-width: 912px) { 
+    .detail-box {
+        width: 70%;
     }
-
+}
+@media only screen and (min-width: 768px) {
    .detail-box {
         width: 70%;
         margin: 2em 1em;
    }
+}
+
+@media screen and (max-width: 820px) {
+    .detail-box {
+        width: 35rem;
+    }    
+}
+
+@media screen and (max-width: 540px) {
+    .detail-box {
+        width: 85%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    html,body {
+        font-size: 0.8rem;
+    }
+    .hero-image {
+        display: flex;
+        justify-content: center;
+    }
+    .hero-image img {
+        width: 15em;
+        height: auto;
+    }
+    .detail-box {
+        width: 20rem;
+    }
 }

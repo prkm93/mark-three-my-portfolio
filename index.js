@@ -2,7 +2,7 @@ const projectSectionContent = document.querySelector('.section-content__projects
 import {projectData} from './js/data.js'; 
 
 const renderDetailBox = (item, i) => {
-    let detailBox = `<article id=${i}>
+    let detailBox = `<article class="detail-boxes" id=${i}>
                         <div class="detail-box">
                             <h2>${item.projectName}</h2>
                             <p class="detail-box__date">${item.date}</p>
