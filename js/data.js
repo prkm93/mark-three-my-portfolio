@@ -1,31 +1,24 @@
 export const projectData = [
-    // {
-    //     projectName:'profit-or-loss',
-    //     date: 'December, 2021',
-    //     description:'A website which helps user how much profit or loss he/she is making in percentage & absolute value.',
-    //     liveProjectLink: 'link1',
-    //     sourceCodeLink:'link2'
-    // },
-    // {
-    //     projectName:'palindrome-birthdays',
-    //     date: 'December, 2020',
-    //     description:'App which checks whether your birthday is a palindrome birthday or not.',
-    //     liveProjectLink: 'link1',
-    //     sourceCodeLink:'link2'
-    // },
+    {
+        projectName:'Admin UI',
+        date: 'May, 2022',
+        description:'A datatable with features like searching, sorting, pagination, edit, delete and multiselect.',
+        liveProjectLink: 'https://admin-ui-react-30b1a6.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/admin-ui'
+    },
+    {
+        projectName:'Xflix Frontend',
+        date: 'April, 2022',
+        description:'A video playing app created in react and material UI where users can search, play videos, filter based on different criteria and add videos.Currently its using mock backend, so video upload willn\'t work.',
+        liveProjectLink: 'https://xflix-frontend-pradeep.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/Xflix-frontend'
+    },
     {
         projectName:'Qkart-FrontEnd(Hooks) - Crio Project',
         date: 'Dec, 2021',
         description:'A basic flipkart like website created using react hooks and Material UI where users can login, register, view products, add product to cart and order it',
         liveProjectLink: 'https://qkart-frontend-hooks-pradeep.netlify.app/',
-        sourceCodeLink:'https://gitlab.crio.do/COHORT_ME_QKART_FRONTEND_V2_ENROLL_1638083375127/aradshub93-ME_QKART_FRONTEND_V2'
-    },
-    {
-        projectName:'Qkart-FrontEnd(Class component) - Crio Project',
-        date: 'Oct, 2021',
-        description:'A basic flipkart like website where users can login, register, view products, add product to cart and order it',
-        liveProjectLink: 'https://qkart-frontend-pr.netlify.app/',
-        sourceCodeLink:'https://gitlab.crio.do/COHORT_ME_QKART_FRONTEND_ENROLL_1624363790821/aradshub93-me_qkart_frontend'
+        sourceCodeLink:'https://github.com/prkm93/Qkart-Frontend-using-Hooks'
     },
     {
         projectName:'learn-triangles',
