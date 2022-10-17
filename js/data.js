@@ -1,5 +1,12 @@
 export const projectData = [
     {
+        projectName:'Stock Profit or Loss Calculator',
+        date: 'May, 2022',
+        description:'A simple interface for entering stock initial price, quantity and current price to calculate profit or loss.',
+        liveProjectLink: 'https://earnest-haupia-6a9f3e.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/simple-profit-or-loss-calculator'
+    },
+    {
         projectName:'Admin UI',
         date: 'May, 2022',
         description:'A datatable with features like searching, sorting, pagination, edit, delete and multiselect.',
