@@ -1,5 +1,12 @@
 export const projectData = [
     {
+        projectName:'The classic calculator app',
+        date: 'Oct, 2022',
+        description:'A calculator app with proper styles and basic functionalities like add,subtract, multiply and divide.',
+        liveProjectLink: 'https://my-calculator-96f726.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/calculator'
+    },
+    {
         projectName:'Stock Profit or Loss Calculator',
         date: 'May, 2022',
         description:'A simple interface for entering stock initial price, quantity and current price to calculate profit or loss.',
