@@ -1,5 +1,12 @@
 export const projectData = [
     {
+        projectName:'The classic calculator app',
+        date: 'Oct, 2022',
+        description:'A calculator app with proper styles and basic functionalities like add,subtract, multiply and divide.',
+        liveProjectLink: 'https://my-calculator-96f726.netlify.app/',
+        sourceCodeLink:'https://github.com/prkm93/calculator'
+    },
+    {
         projectName:'Stock Profit or Loss Calculator',
         date: 'May, 2022',
         description:'A simple interface for entering stock initial price, quantity and current price to calculate profit or loss.',
@@ -95,7 +102,7 @@ export const projectData = [
         date: 'July, 2021',
         description: "A dynamic travel website where users can book travel, view places, filter based on category or duration, view bookings.",
         liveProjectLink: 'https://qtrip-dynamic-by-pradeep.netlify.app/', 
-        sourceCodeLink: 'https://gitlab.crio.do/COHORT_ME_QTRIPDYNAMIC_ENROLL_1624363671740/aradshub93-me_qtripdynamic/-/tree/master'
+        sourceCodeLink: 'https://github.com/prkm93/Qtrip'
     },
     {
         projectName:'neogcamp-practice-interview-questions-collection',
@@ -112,7 +119,7 @@ export const projectData = [
         sourceCodeLink:'https://github.com/prkm93/mark-two-quiz-App--multiple-options'
     },
     {
-        projectName:'how well do you know me?',
+        projectName:'How well do you know me?',
         date: 'June, 2021',
         description:'A CLI app built with nodeJS. You would need to answer some questions about me.You will get +4 for correct answer and -1 for each wrong answer.',
         liveProjectLink: 'https://replit.com/@praddy93/mark-One#index.js',
