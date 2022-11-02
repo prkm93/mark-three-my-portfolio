@@ -95,7 +95,7 @@ export const projectData = [
         date: 'July, 2021',
         description: "A dynamic travel website where users can book travel, view places, filter based on category or duration, view bookings.",
         liveProjectLink: 'https://qtrip-dynamic-by-pradeep.netlify.app/', 
-        sourceCodeLink: 'https://gitlab.crio.do/COHORT_ME_QTRIPDYNAMIC_ENROLL_1624363671740/aradshub93-me_qtripdynamic/-/tree/master'
+        sourceCodeLink: 'https://github.com/prkm93/Qtrip'
     },
     {
         projectName:'neogcamp-practice-interview-questions-collection',

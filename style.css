@@ -135,6 +135,9 @@ footer {
     align-items: center;
 }
 
+.footer-link {
+    color: white;
+}
 .bi {
     margin: 1em;
     font-size: 2em;
