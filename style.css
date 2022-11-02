@@ -2,7 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&display=swap');
 body{
     font-family: 'Hind Siliguri', sans-serif;
+    position: relative;
     font-size: 18px;
+    min-height: 100vh;
     font-weight: 500;
     color: rgb(248, 233, 236);
     background:linear-gradient(to right, rgb(0, 0, 0), rgb(90, 4, 51));
@@ -39,7 +41,7 @@ nav{
 }
 .section-content{
     margin: 0 auto;
-    padding: 2em;
+    padding: 2em 2em 5em 2em;
 }
 li{
     text-align: left;
@@ -129,14 +131,14 @@ h1,h2 {
 }
 
 footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    position: absolute;
+    bottom: 0;
+    left: 40%;
 }
 
 .footer-link {
     color: white;
+    list-style-type: none;
 }
 .bi {
     margin: 1em;
@@ -151,6 +153,9 @@ footer {
 @media only screen and (max-width: 912px) { 
     .detail-box {
         width: 70%;
+    }
+    footer {
+        left: 25%;
     }
 }
 @media only screen and (max-width: 768px) {
@@ -170,6 +175,9 @@ footer {
     .detail-box {
         width: 85%;
     }
+    footer {
+        left: 20%;
+    }
 }
 
 @media screen and (max-width: 425px) {
@@ -186,5 +194,8 @@ footer {
     }
     .detail-box {
         width: 20rem;
+    }
+    footer{
+        left: 20%;
     }
 }
