@@ -2,7 +2,7 @@ export const projectData = [
     {
         projectName:'Ecommerce app (Byte-Cart)',
         date: 'July, 2024',
-        description:'A e-commerce app with features like authentication, product listing, cart and checkout functionality.',
+        description:'A e-commerce app with features like authentication, product listing, multiple filters, search, add to cart, wishlist, checkout, payment integration, order history, profile functionality.',
         liveProjectLink: 'https://main--byte-cart.netlify.app/',
         sourceCodeLink:'https://github.com/prkm93/byte-cart'
     },
